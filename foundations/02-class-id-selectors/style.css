@@ -1,0 +1,19 @@
+.oddnumber {
+    background-color: #ff9999;
+    font-family: Verdana, sans-serif;
+}
+
+.pxvalue {
+    font-size: 24px;
+}
+
+.greennbold {
+    background-color: #66ff66;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#evendiv {
+    color: #0000ff;
+    font-size: 36px;
+}
